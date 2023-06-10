@@ -3,7 +3,7 @@ A simple Flutter App which calculates BMI index and also give the results and su
 
 
 ## User Input Page
-<img width="250" height="450" src="result.png">
+<img width="250" height="500" src="result.png">
 
 ## Result Page
-<img width="250" height="450" src="input.png">
+<img width="250" height="500" src="input.png">
